@@ -1,0 +1,12 @@
+/Users/marcostalman/Projects/decoder/decoder/obj/Debug/netcoreapp3.1/decoder.csprojAssemblyReference.cache
+/Users/marcostalman/Projects/decoder/decoder/obj/Debug/netcoreapp3.1/decoder.AssemblyInfoInputs.cache
+/Users/marcostalman/Projects/decoder/decoder/obj/Debug/netcoreapp3.1/decoder.AssemblyInfo.cs
+/Users/marcostalman/Projects/decoder/decoder/obj/Debug/netcoreapp3.1/decoder.csproj.CoreCompileInputs.cache
+/Users/marcostalman/Projects/decoder/decoder/bin/Debug/netcoreapp3.1/decoder.deps.json
+/Users/marcostalman/Projects/decoder/decoder/bin/Debug/netcoreapp3.1/decoder.runtimeconfig.json
+/Users/marcostalman/Projects/decoder/decoder/bin/Debug/netcoreapp3.1/decoder.runtimeconfig.dev.json
+/Users/marcostalman/Projects/decoder/decoder/bin/Debug/netcoreapp3.1/decoder.dll
+/Users/marcostalman/Projects/decoder/decoder/bin/Debug/netcoreapp3.1/decoder.pdb
+/Users/marcostalman/Projects/decoder/decoder/obj/Debug/netcoreapp3.1/decoder.dll
+/Users/marcostalman/Projects/decoder/decoder/obj/Debug/netcoreapp3.1/decoder.pdb
+/Users/marcostalman/Projects/decoder/decoder/obj/Debug/netcoreapp3.1/decoder.genruntimeconfig.cache
